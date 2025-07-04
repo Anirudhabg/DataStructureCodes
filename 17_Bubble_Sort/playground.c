@@ -16,10 +16,10 @@ void printArray(int array[], int n) {
     }
 }
 
-// Bubble Sort in Descending Order
+// Bubble Sort in Ascending Order
 void bubbleSort(int array[], int n) {
     int phase = 1;
-    printf("\n-- Bubble Sort (Descending Order) --");
+    printf("\n-- Bubble Sort (Ascending Order) --");
 
     for (int i = 0; i < n; i++) {
         int j = 0;

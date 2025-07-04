@@ -57,7 +57,7 @@ This repository acts as a reference collection of C programs that are part of th
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
-````
+   ```
 
 2. Navigate to the folder and open the required `.c` file in any C-compatible editor.
 
